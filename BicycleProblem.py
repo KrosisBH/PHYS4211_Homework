@@ -1,6 +1,5 @@
 #necessary imports
 import matplotlib.pyplot as plt
-from vpython import *
 
 #initial conditions and constants
 velocity_initial = 4 #given
